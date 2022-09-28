@@ -1,10 +1,8 @@
 package com.org.acme.patient.onboarding.service;
 
-import org.acme.patient.onboarding.model.Doctor;
-import org.acme.patient.onboarding.model.Hospital;
 
-
-
+import com.org.acme.patient.onboarding.model.Doctor;
+import com.org.acme.patient.onboarding.model.Hospital;
 
 public interface IOnboardingService {
 

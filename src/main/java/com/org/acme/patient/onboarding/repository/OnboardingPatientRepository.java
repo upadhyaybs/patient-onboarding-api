@@ -1,7 +1,8 @@
 package com.org.acme.patient.onboarding.repository;
 
-import org.acme.patient.onboarding.model.Doctor;
-import org.acme.patient.onboarding.model.Hospital;
+import com.org.acme.patient.onboarding.model.Doctor;
+import com.org.acme.patient.onboarding.model.Hospital;
+
 
 
 import javax.enterprise.context.ApplicationScoped;

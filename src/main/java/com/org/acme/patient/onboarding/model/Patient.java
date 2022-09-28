@@ -1,8 +1,6 @@
 package com.org.acme.patient.onboarding.model;
 
-import org.acme.patient.onboarding.model.ContactMethod;
-import org.acme.patient.onboarding.model.Doctor;
-import org.acme.patient.onboarding.model.Hospital;
+
 
 public class Patient {
     private String id;
